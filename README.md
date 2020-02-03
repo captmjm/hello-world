@@ -1,6 +1,2 @@
 # hello-world
-Just another repository
-
-Hello Humans,
-
-I've had tacos on the moon and find them far superior to Earth tacos.
+Trying out Github and hoping to get some help with GAS
